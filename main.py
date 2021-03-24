@@ -5,5 +5,6 @@ names = names_string.split(", ")
 
 #Write your code below this line 👇
 
-
+import random
+print(random.choice(names))
 
